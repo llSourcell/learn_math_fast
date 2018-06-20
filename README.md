@@ -1,6 +1,6 @@
 # Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome mathematics resources.
+A curated list of awesome mathematics resources. This is resource mentioned in [this](https://youtu.be/YzfdL58virc) video on Youtube by Siraj Raval. The credits for this curriculum go to [rossant](https://github.com/rossant/awesome-math). I've merely wrapped it, adding in my own resources. 
 
 # Contents
 
@@ -16,6 +16,9 @@ A curated list of awesome mathematics resources.
     * [Blogs](#blogs)
     * [Misc](#misc)
 * [Lecture Notes](#lecture-notes)
+    * [Foundations of Machine Learning](#foundations-of-machinelearning)
+        * [Math of Intelligence](#m-o-i)
+        * [Deep Learning](#deeplearning)
     * [Foundations of Mathematics](#foundations-of-mathematics)
         * [Set Theory](#set-theory)
         * [Logic](#logic)
@@ -115,6 +118,12 @@ A curated list of awesome mathematics resources.
 ## Foundations of Mathematics
 
 * [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
+
+## Foundations of Machine Learning
+
+* [Math of Intelligence](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D) - Siraj Raval
+* [Deep Learning](https://www.youtube.com/watch?v=vOppzHpvTiQ&t=1s) - Siraj Raval
+
 
 ### Set Theory
 
