@@ -58,6 +58,8 @@ A curated list of awesome mathematics resources. This is resource mentioned in [
     * [Numerical Analysis](#numerical-analysis)
     * [Signal processing](#signal-processing)
     * [Mathematics for Computer Science](#mathematics-for-computer-science)
+    * [Discrete mathematics](#discrete-mathematics)
+    * [Cryptography](#cryptography)
     * [Mathematical Biology](#mathematical-biology)
     * [Mathematical Physics](#mathematical-physics)
 * [License](#license)
@@ -470,6 +472,18 @@ Shlomo Sternberg
 * [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) - H. Wilf
 * [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) - Pravin Varaiya
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) - David J. C. MacKay
+
+
+## Discrete mathematics
+
+* [A Course in Discrete Structures](https://www.cs.cornell.edu/~rafael/discmath.pdf) - Rafael Pass, Wei-Lung Dustin Tseng
+
+## Cryptography
+
+* [An Introduction to Cryptography](https://www.mathematik.uni-kl.de/~ederc/download/Cryptography.pdf) Mohamed Barakat, Christian Eder, Timo Hanke
+* [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) Rafael Pass, Abhi Shelat
+* [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) Shafi Goldwasser, Mihir Bellare
+* [Intro to Lattice Algorithms and Cryptography](https://homepages.cwi.nl/~dadush/teaching/lattices-2018/) Daniel Dadush
 
 ## Mathematical Biology
 
